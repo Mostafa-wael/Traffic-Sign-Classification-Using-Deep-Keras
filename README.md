@@ -1,4 +1,4 @@
-# Traffic-Sign-Classification-Using-Deep-Keras
+# Traffic-Sign-Classification-Using-Keras
 This is a guided project Offered By "Coursera Project Network".
 
 Guided Project Link : https://www.coursera.org/learn/traffic-sign-classification-deep-learning/home/welcome
